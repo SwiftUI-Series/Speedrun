@@ -22,8 +22,8 @@ The judges will compare your end result using [RocketSim](https://www.rocketsim.
 
 Once you've uploaded your code to a public GitHub repo, make a PR and add a link below.
 
+
 | Link to Code  | Attendee Name    | Twitter                                   | Beginner / Pro |
 | ------------- |:----------------:| ------------------------------------------------:|---------:|
-| Link to repo  | Jordi Bruin     | [Twitter](https://www.twitter.com/jordibruin)    |Beginner |
-
+| [Link to repo](https://github.com/aerickson14/SwiftUICameraAppSpeedRun)  | Andrew Erickson     | [Twitter](https://www.twitter.com/aerickson14)    |
 
