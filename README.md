@@ -14,6 +14,10 @@ The Speedrun event is all about making your ideas come to live. SwiftUI makes it
 - Add a reference to your project to the README of this repo and make a PR
 - Make sure your speedrun is not longer than 30 min
 
+![image](https://user-images.githubusercontent.com/170948/169041758-72781541-5cb0-4966-b078-a61794f24cac.png)
+![Background photo]([https://www.swiftuiseries.com/images/events/banner-speedrun.png](https://www.swiftuiseries.com/images/events/speedrun-screenshot.jpeg))
+
+
 The judges will compare your end result using [RocketSim](https://www.rocketsim.app)'s design comparison feature so maybe it comes in handy for you as well.
 
 Once you've uploaded your code to a public GitHub repo, make a PR and add a link below.
