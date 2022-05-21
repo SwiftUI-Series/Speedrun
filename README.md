@@ -25,6 +25,6 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 
 | Link to Code  | Attendee Name    | Twitter                                   | Link to Screen recording |Beginner / Pro | Duration |
 | ------------- |:----------------:| ------------------------------------------------:|---------:|-----------------:|----:|
-| [Link to repo](https://github.com/aerickson14/SwiftUICameraAppSpeedRun)  | Andrew Erickson | [Twitter](https://www.twitter.com/aerickson14) | [Screen recording](https://youtu.be/K76xAvEkH_c)       | Pro | 17:12 |<br/>
-[Link to repo](https://github.com/FrankSolleveld/SwiftUISpeedrunChallenge)  | Frank Solleveld | [Twitter](https://www.twitter.com/franksolleveld) | [Screen recording](https://youtu.be/qt4O-fwEMb4)       | Pro | 20:04 |<br/>
+| [Link to repo](https://github.com/aerickson14/SwiftUICameraAppSpeedRun)  | Andrew Erickson | [@aerickson14](https://www.twitter.com/aerickson14) | [Screen recording](https://youtu.be/K76xAvEkH_c)       | Pro | 17:12 |<br/>
+[Link to repo](https://github.com/FrankSolleveld/SwiftUISpeedrunChallenge)  | Frank Solleveld | [@franksolleveld](https://www.twitter.com/franksolleveld) | [Screen recording](https://youtu.be/qt4O-fwEMb4)       | Pro | 20:04 |<br/>
 
