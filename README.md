@@ -25,12 +25,12 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 
 | Link to Code  | Attendee Name    | Twitter                                   | Link to Screen recording |Beginner / Pro | Duration |
 | ------------- |:----------------:| ------------------------------------------------:|---------:|-----------------:|----:|
-| [Link to repo](https://github.com/aerickson14/SwiftUICameraAppSpeedRun)  | Andrew Erickson | [@aerickson14](https://www.twitter.com/aerickson14) | [Screen recording](https://youtu.be/K76xAvEkH_c)       | Pro | 17:12 |<br/>
-[Link to repo](https://github.com/FrankSolleveld/SwiftUISpeedrunChallenge)  | Frank Solleveld | [@franksolleveld](https://www.twitter.com/franksolleveld) | [Screen recording](https://youtu.be/qt4O-fwEMb4)       | Pro | 20:04 |<br/>
-[Link to repo](https://github.com/jordibruin/swiftui-speedrun/blob/main/README.md)  | Jordi Bruin | [@jordibruin](https://www.twitter.com/jordibruin) | [Screen recording](https://youtu.be/70HKGgkmMrg)       | Pro | 20:36 |<br/>
-[Link to repo](https://github.com/anikaseibezeder/SwiftUISpeedrunChallenge)  | Anika Seibezeder | [@anikaseibezeder](https://www.twitter.com/anikaseibezeder) | [Screen recording](https://youtu.be/jy6C-iudb2w)       | Pro | 13:42 |<br/>
-[Link to repo](https://github.com/sarunw/swiftuiseries-speedrun)  | Sarun Wongpatcharapakorn | [@sarunw](https://twitter.com/sarunw) | [Screen recording](https://youtu.be/GyTlXnfwVtw)       | Beginner | 20:26 |<br/>
-| [Link to repo](https://github.com/markiv/SpeedCam) | Vikram Kriplaney | [@krips](https://twitter.com/krips) | [Screen recording](https://youtu.be/n5b3jOROIYM) | Pro | 24:17 |<br/>
-[Link to repo](https://github.com/modelist61/SpeedRunChallange) | Tokarev Dmitry | [@modelist61](modelist61@bk.ru) | [Screen recording](https://youtu.be/WGT6yB1VQe8) | Beginner | 88:20 |<br/>
-[Link to repo](https://github.com/dmikots/SwiftUISpeedrunChallenge) | Daria Mikots | [@dmikots](mikotsd@gmail.com) | [Screen recording](https://we.tl/t-gJbwPtttGx)) | Middle  | 23:26 |<br/>
-[Link to repo](https://github.com/roblack/SpeedOslo) | Emin Grbo | [@emin_ui](https://twitter.com/emin_ui) | [Screen recording](https://youtu.be/l5c5ihKIh7M) | Pro | 27:19 |<br/>
+| [Code](https://github.com/aerickson14/SwiftUICameraAppSpeedRun)  | Andrew Erickson | [@aerickson14](https://www.twitter.com/aerickson14) | [Screen recording](https://youtu.be/K76xAvEkH_c)       | Pro | 17:12 |<br/>
+[Code](https://github.com/FrankSolleveld/SwiftUISpeedrunChallenge)  | Frank Solleveld | [@franksolleveld](https://www.twitter.com/franksolleveld) | [Screen recording](https://youtu.be/qt4O-fwEMb4)       | Pro | 20:04 |<br/>
+[Code](https://github.com/jordibruin/swiftui-speedrun/blob/main/README.md)  | Jordi Bruin | [@jordibruin](https://www.twitter.com/jordibruin) | [Screen recording](https://youtu.be/70HKGgkmMrg)       | Pro | 20:36 |<br/>
+[Code](https://github.com/anikaseibezeder/SwiftUISpeedrunChallenge)  | Anika Seibezeder | [@anikaseibezeder](https://www.twitter.com/anikaseibezeder) | [Screen recording](https://youtu.be/jy6C-iudb2w)       | Pro | 13:42 |<br/>
+[Code](https://github.com/sarunw/swiftuiseries-speedrun)  | Sarun Wongpatcharapakorn | [@sarunw](https://twitter.com/sarunw) | [Screen recording](https://youtu.be/GyTlXnfwVtw)       | Beginner | 20:26 |<br/>
+| [Code](https://github.com/markiv/SpeedCam) | Vikram Kriplaney | [@krips](https://twitter.com/krips) | [Screen recording](https://youtu.be/n5b3jOROIYM) | Pro | 24:17 |<br/>
+[Code](https://github.com/modelist61/SpeedRunChallange) | Tokarev Dmitry | [@modelist61](modelist61@bk.ru) | [Screen recording](https://youtu.be/WGT6yB1VQe8) | Beginner | 88:20 |<br/>
+[Code](https://github.com/dmikots/SwiftUISpeedrunChallenge) | Daria Mikots | [@dmikots](mikotsd@gmail.com) | [Screen recording](https://we.tl/t-gJbwPtttGx)) | Middle  | 23:26 |<br/>
+[Code](https://github.com/roblack/SpeedOslo) | Emin Grbo | [@emin_ui](https://twitter.com/emin_ui) | [Screen recording](https://youtu.be/l5c5ihKIh7M) | Pro | 27:19 |<br/>
