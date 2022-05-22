@@ -30,4 +30,4 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 [Link to repo](https://github.com/jordibruin/swiftui-speedrun/blob/main/README.md)  | Jordi Bruin | [@jordibruin](https://www.twitter.com/jordibruin) | [Screen recording](https://youtu.be/70HKGgkmMrg)       | Pro | 20:36 |<br/>
 [Link to repo](https://github.com/anikaseibezeder/SwiftUISpeedrunChallenge)  | Anika Seibezeder | [@anikaseibezeder](https://www.twitter.com/anikaseibezeder) | [Screen recording](https://youtu.be/jy6C-iudb2w)       | Pro | 13:42 |<br/>
 [Link to repo](https://github.com/sarunw/swiftuiseries-speedrun)  | Sarun Wongpatcharapakorn | [@sarunw](https://twitter.com/sarunw) | [Screen recording](https://youtu.be/GyTlXnfwVtw)       | Beginner | 20:26 |<br/>
-| [Link to repo](https://github.com/markiv/SpeedCam) | Vikram Kriplaney | [@krips](https://twitter.com/krips) | [Screen recording](https://youtu.be/n5b3jOROIYM) | Pro? | 24:17 |<br/>
+| [Link to repo](https://github.com/markiv/SpeedCam) | Vikram Kriplaney | [@krips](https://twitter.com/krips) | [Screen recording](https://youtu.be/n5b3jOROIYM) | Pro | 24:17 |<br/>
