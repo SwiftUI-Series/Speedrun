@@ -23,8 +23,8 @@ The judges will compare your end result using [RocketSim](https://www.rocketsim.
 Once you've uploaded your code to a public GitHub repo, make a PR and add a link below.
 
 
-| Link to Code  | Attendee Name    | Twitter                                   | Link to Screen recording |Beginner / Pro | Duration |
-| ------------- |----------------|------------------------------------------------|---------|-----------------|----|
+| Link to Code  | Attendee Name | Twitter                                   | Link to Screen recording |Beginner / Pro | Duration |
+|-------------|----------------|------------------------------------------------|---------|-----------------|----|
 | [Code](https://github.com/aerickson14/SwiftUICameraAppSpeedRun)  | Andrew Erickson | [@aerickson14](https://www.twitter.com/aerickson14) | [Screen recording](https://youtu.be/K76xAvEkH_c)       | Pro | 17:12 |<br/>
 [Code](https://github.com/FrankSolleveld/SwiftUISpeedrunChallenge)  | Frank Solleveld | [@franksolleveld](https://www.twitter.com/franksolleveld) | [Screen recording](https://youtu.be/qt4O-fwEMb4)       | Pro | 20:04 |<br/>
 [Code](https://github.com/jordibruin/swiftui-speedrun/blob/main/README.md)  | Jordi Bruin | [@jordibruin](https://www.twitter.com/jordibruin) | [Screen recording](https://youtu.be/70HKGgkmMrg)       | Pro | 20:36 |<br/>
