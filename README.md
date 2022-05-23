@@ -37,3 +37,4 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 [Code](https://github.com/dantecesa/SwiftUISpeedrunChallenge) | Dante Cesa | [@dantecesa](https://twitter.com/dantecesa) | [Screen recording](https://youtu.be/Ss6LALX2uGA) | Beginner | 15:47 |<br/>
 | [Code](https://github.com/maeganwilson/SwiftUISpeedRun-Challange) | Maegan Wilson | [@maeganwilson_](https://twitter.com/maeganwilson_) | [Screen recording](https://youtu.be/VPAnbKpPkJk) | Intermediate | 35:00 |<br/>
 | [Code](https://github.com/jegnux/SwiftUICameraAppSpeedrunChallenge) | Jérôme Alves | [@jegnux](https://twitter.com/jegnux) | [Screen recording](https://www.youtube.com/watch?v=N9L8XfZaIv8) | Pro | 22:56 |<br/>
+| [Code](https://github.com/markbattistella/swift-ui-speed-run) | Mark Battistella | [@markbattistella](https://twitter.com/markbattistekka) | [Screen recording](https://vimeo.com/712794558/08f3044f53) | Beginner | 23:48 |<br/>
