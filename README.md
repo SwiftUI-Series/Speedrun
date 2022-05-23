@@ -34,3 +34,4 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 [Code](https://github.com/modelist61/SpeedRunChallange) | Tokarev Dmitry | [@modelist61](modelist61@bk.ru) | [Screen recording](https://youtu.be/WGT6yB1VQe8) | Beginner | 88:20 |<br/>
 [Code](https://github.com/dmikots/SwiftUISpeedrunChallenge) | Daria Mikots | [@dmikots](mikotsd@gmail.com) | [Screen recording](https://we.tl/t-gJbwPtttGx) | Middle  | 23:26 |<br/>
 [Code](https://github.com/roblack/SpeedOslo) | Emin Grbo | [@emin_ui](https://twitter.com/emin_ui) | [Screen recording](https://youtu.be/l5c5ihKIh7M) | Pro | 27:19 |<br/>
+[Code](https://github.com/maeganwilson/SwiftUISpeedRun-Challange) | Maegan Wilson | [@maeganwilson_](https://twitter.com/maeganwilson_) | [Screen recording](https://youtu.be/VPAnbKpPkJk) | Intermediate | 35:00 |<br/>
